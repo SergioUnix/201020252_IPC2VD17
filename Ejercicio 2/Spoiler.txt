@@ -1,12 +1,12 @@
-Se invitó a Lotus y a Microsoft a que compitieran y se les dieron tres semanas
-para realizar la labor de bechamarking, es decir, las tareas de prueba estándar
-usando sus productos. Especialistas en información de BKC observaron la forma 
-en que los proveedores usaron sus productos para tener una idea de cuán fáciles
-o difíciles serían de usar esos productos. Luego, Foley y su personal calificaron
-cada producto en cada situación y produjeron la "boleta de calificaciones" de la
-Tabla 14.3. Se juzgó que Lotus tenía el mejor producto y fue el seleccionado. 
-Una influencia clave sobre la decisión fue el hecho de que los productos de Lotus
-ya estaban en el mercado entonces, mientras que algunos de los productos de Microsoft 
-todavía estaban en la etapa de desarrollo.
-La forma en que BKC realizó la evaluación de los productos de groupware es un 
-buen ejemplo de adoptar un enfoque de sistemas para la adquisición de software.
+S nvt  Ltus y  Mcrsft  qu cmptrn y s ls drn trs smns
+pr rlzr l lbr d bchmrkng, s dcr, ls trs d prub stndr
+usnd sus prducts. spclsts n nfrmcn d BKC bsrvrn l frm 
+n qu ls prvdrs usrn sus prducts pr tnr un d d cun fcls
+ dfcls srn d usr ss prducts. Lug, Fly y su prsnl clfcrn
+cd prduct n cd stucn y prdujrn l "blt d clfccns" d l
+Tbl 14.3. S juzg qu Ltus tn l mjr prduct y fu l slccnd. 
+Un nflunc clv sbr l dcsn fu l hch d qu ls prducts d Ltus
+y stbn n l mrcd ntncs, mntrs qu lguns d ls prducts d Mcrsft 
+tdv stbn n l tp d dsrrll.
+L frm n qu BKC rlz l vlucn d ls prducts d grupwr s un 
+bun jmpl d dptr un nfqu d sstms pr l dquscn d sftwr.
