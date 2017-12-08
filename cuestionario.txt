@@ -1,0 +1,12 @@
+¿Qué entiende como "commit"? 
+el commit nos sirve para poner una etiqueta en algun cambio en especifico 
+pero aun no se ha subido al dar commit
+
+¿Qué entiende como "merge"?
+Este lo que hace es unir todas las ramas en usa sola
+
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+Pull es para bajar lo que se encuentra en el repositorio mientras
+que el push es para guardar los cambios que hemos realizado y guardarlos en 
+el repositorio
