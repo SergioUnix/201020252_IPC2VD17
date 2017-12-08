@@ -1,0 +1,12 @@
+Modelo Incremental
+Combina elementos del modelo en cascada con la filosofía interactiva de 
+construcción de prototipos. Se basa en la filosofía de construir incrementando las 
+funcionalidades del programa. Este modelo aplica secuencias lineales de forma 
+escalonada mientras progresa el tiempo en el calendario. Cada secuencia lineal
+produce un incremento del software.
+
+Cuando se utiliza un modelo incremental, el primer incremento es a menudo un producto
+esencial, sólo con los requisitos básicos. Este modelo se centra en la entrega de
+un producto operativo con cada incremento. Los primeros incrementos son versiones 
+incompletas del producto final, pero proporcionan al usuario la funcionalidad que 
+precisa y también una plataforma para la evaluación.

@@ -1,0 +1,28 @@
+Ciclo de vida del Software Resumen
+
+Planificacion
+Un punto importante es analizar los requerimeitneos que el cliente pide para la
+elaboración del sistema que necesita. Se necesita de cierto conocimiento para
+poder entender la idea que el cliente propone.
+
+Implementación
+Aca se pueden aplicar una infinidad de metodologías de desarrollo de software
+que nos ofrecen la posibilidad de trabajar de distintas formas. Basicamente es la parte
+donde los programadores empiezan a codificar o desarrollar el sistema que se encesita
+
+Pruebas
+La idea es ir haciendo pruebas segun se valla avanzando el proyecto, las pruebas
+nos van a permitir ser si el sistema que se está desarrollando es funcional.
+
+Documentación
+la documentacion siempre es importan, pues considera que no siempre vas a estar tu 
+y tu equipo disponibles y en cuanto otro equipo llegue a programar lo que se 
+realizo.
+
+Despliegue
+Este es cuando el sistema ya esta terminado y  ha sido aprobado para que se elabore el 
+procudto final.
+
+Mantenimiento
+Es la ultima fase del desarrollo de software , es el manteminiento. Acá ademas
+se pueden agregar lo que son las actualizaciones, dependiento del tipo de desarrollo.

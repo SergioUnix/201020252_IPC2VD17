@@ -1,0 +1,16 @@
+Modelo en Cascada
+Esta es una de las metodologias mas antiguas en lo que es el ciclo de vida
+de un modelo informatico. Esta metodologia es lineal y consta de algunas fases
+que hay que seguir y completar para poder avanzar a la fase siguiente.
+Esta compuesta por las siguientes fases:
+Requerimientos
+Diseño
+Implementación y Desarrollo
+Integración
+Pruebas o Validación
+Despliegue o Instalación
+Mantenimiento
+
+El ciclo de vida de un programa realizado bajo la metodología en cascada, es
+extenso pero muy bien estructurado. El detalle aquí es que no puedes saltearte
+fases ni volver a repetirlas.
