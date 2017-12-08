@@ -1,0 +1,12 @@
+Se invitó a Lotus y a Microsoft a que compitieran y se les dieron tres semanas
+para realizar la labor de bechamarking, es decir, las tareas de prueba estándar
+usando sus productos. Especialistas en información de BKC observaron la forma 
+en que los proveedores usaron sus productos para tener una idea de cuán fáciles
+o difíciles serían de usar esos productos. Luego, Foley y su personal calificaron
+cada producto en cada situación y produjeron la "boleta de calificaciones" de la
+Tabla 14.3. Se juzgó que Lotus tenía el mejor producto y fue el seleccionado. 
+Una influencia clave sobre la decisión fue el hecho de que los productos de Lotus
+ya estaban en el mercado entonces, mientras que algunos de los productos de Microsoft 
+todavía estaban en la etapa de desarrollo.
+La forma en que BKC realizó la evaluación de los productos de groupware es un 
+buen ejemplo de adoptar un enfoque de sistemas para la adquisición de software.
